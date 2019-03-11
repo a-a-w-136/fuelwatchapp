@@ -1,5 +1,5 @@
 # fuelwatchapp.com
-Fuelwatchapp monitors fuel prices in Western Australia. Users can search by Fuel Type, Location and Distance from location. Locations are  selected from the data collected from GNAF(https://data.gov.au/search?q=gnaf). The location data is campared against the fuel price data collected(daily) from https://www.fuelwatch.wa.gov.au/. Users can register, set a favourite, search the database, login, logout and unregister. 
+Fuelwatchapp monitors fuel prices in Western Australia. Users can search by Fuel Type, Location and Distance from location. Locations are  selected from the data collected from GNAF(https://data.gov.au/search?q=gnaf). The location data is campared against the fuel price data collected(daily) from https://www.fuelwatch.wa.gov.au/. Users can register, set a favourite, search the database, login, logout, unregister and show the location of stations in google maps. 
 
 This app does not use a framework for the simple reason that I wanted to try developing without one. The app attempts to follow the MVC pattern. The following describes this process.
 
