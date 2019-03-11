@@ -1,5 +1,5 @@
 <?php
-include "/var/www/html/fuelwatchapp.com/admin/config/config.php";
+include "/var/www/fuelwatchapp.com/admin/config/config.php";
 include $function_and_classes;
 session($root_domain_config);
 if(!isset($_SESSION['username'])) {
