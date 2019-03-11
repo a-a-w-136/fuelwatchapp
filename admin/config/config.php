@@ -29,8 +29,8 @@ $php_error = $log_path."/php/php_error.log";
 
 $root_domain_config = "/var/www/html/fuelwatchapp.com/public_html";
 $dbhost_config = "localhost";
-$dbusername_config = "fuelwatchapp";
-$dbpassword_config = "fuelwatchapp";
+$dbusername_config = "YOURUSERNAME";
+$dbpassword_config = "YOURPASSWORD";
 $dbname_config = "FuelWatch";
 
 $views_path = "/var/www/html/fuelwatchapp.com/views/";
