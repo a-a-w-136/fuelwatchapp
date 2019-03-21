@@ -15,4 +15,4 @@ A better implementation would be to create a 'Controller' class that is instanti
 
 Finally the script that gathers and stores the GNAF data found in admin/waaddressscript seems to be an reasonable solution for the purposes of this academic project. However more thought would be needed if one was to consider an automated script that requests updated data sets from (https://data.gov.au/search?q=gnaf) according to some schedule. The way it works currently is that I have downloaded the appropriate data sets, stored them on the server, then run the script to translate that data set into the DataBase.
 
-Most of these issues have been addressed in the yii2 implementation of the the fuelwatchapp, found here . 
+Most of these issues have been addressed in the yii2 implementation of the the fuelwatchapp, found here https://github.com/a-a-w-136/yiifuelwatchapp. 
